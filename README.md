@@ -1,1 +1,1 @@
-## Este projeto foi desenvolvido com o intuito de demonstrar o meu Portfolio de Projetos de ‘Software’.
+## Este projeto tem o intuito de demonstrar o meu Portfolio de Projetos de ‘Software’.
